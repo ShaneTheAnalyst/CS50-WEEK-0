@@ -1,6 +1,6 @@
-# CS50-WEEK-0
+# CS50X-WEEK-0
 SCRATCH PROJECT
-WEEK 0  CS50 SCRATCH PROJECT
+Harvard University edX WEEK 0  CS50 SCRATCH PROJECT
 
 It’s time to choose your own adventure! Your assignment, quite simply, is to implement in Scratch, at scratch.mit.edu, any project of your choice, be it an interactive story, game, animation, or anything else, subject only to the following requirements:
 
